@@ -1,0 +1,274 @@
+*{
+  /* outline: red 1px solid; */
+  margin: 0 ;
+}
+
+.globe{
+  height: 140px;
+  display: inline-block;
+  position: absolute;  
+  
+}
+
+header{
+  display: inline-block;
+  width: 100%;
+  height: 180px;
+  position: relative;
+  
+}
+
+.internet{
+  display: inline-block;
+  font-size: 60px;
+  padding-bottom: 4px;
+  vertical-align: top;
+  margin: 40px 0px 0px 140px
+}
+
+.net{
+  color: rgb(29, 89, 201);
+}
+
+.world-wide-web{
+  background-color: rgb(45, 92, 163);
+  color: white;
+  height: 70px;
+  width: 100%;
+  padding: 10px 0 0px 0;
+}
+
+.www{
+  font-size: 45px;
+  margin: 0px 0 0 0;
+  
+}
+
+main{
+  height: 860px
+}
+
+.left-header{
+  width: 270px;
+  height: 600px;
+  margin: 10px 0 0 0
+}
+
+.what-internet{
+  font-size: 24px;
+  padding: 14px 0 0 0;
+  height: 30px
+}
+
+.interconnected{
+  font-size: 22px;
+  height: 85px
+}
+
+.blue {
+  color: rgb(39, 112, 180)
+}
+
+.video{
+  display: block;
+  background-color: rgb(65, 140, 211);
+  color: white;
+  border-radius: 15px;
+  height: 40px;
+  padding: 15px 0 0 0px;
+  text-align: center;
+  font-size: 24px
+}
+
+.more-resources{
+  display: block;
+  background-color: orange;
+  color: white;
+  border-radius: 15px;
+  height: 40px;
+  padding: 15px 0 0 0px;
+  text-align: center;
+  font-size: 24px;
+  margin: 10px 0 0 0;
+}
+
+.black-line{
+  background-color: black;
+  height: 1px;
+  margin: 25px 0 0 0;
+}
+
+.reinvent{
+  position: absolute;
+  font-size: 27px;
+  height: 100px;
+  width: 200px;
+  color: white;
+  margin: 30px 0 0 15px ;
+  text-align: center;
+}
+
+.ad-background{
+  width: 270px;
+  margin: 20px 0 0 0;
+}
+
+.ninja{
+  height: 150px;
+  position: absolute;
+  top: 590px;
+  left: 60px
+}
+
+.learn-more{
+  position: absolute;
+  width: 210px;
+  height: 30px;
+  text-align: center;
+  background-color: rgb(94, 186, 226);
+  color: white;
+  font-size: 24px;
+  padding: 5px 0 0 0;
+  margin: 0 0 25px;
+  top: 800px;
+  left: 20px
+}
+
+
+
+.main-content{
+  height: 710px;
+  display: inline-block;
+  width: 935px;
+  margin: -600px 0 0 330px;
+  vertical-align: top;
+}
+
+.main-header{
+  height: 90px;
+  position: relative;
+}
+
+.mini-house{
+  height: 30px;
+  padding: 5px 0 0 0 ;
+}
+
+.dns{
+  vertical-align: top;
+  margin: 13px 0 0px 0;
+  display: inline-block;
+  font-size: 20px;
+  color: rgb(40, 77, 145)
+}
+
+.phone{
+  height: 60px;
+  margin: 10px 0 0 0;
+  position: absolute;
+  left: 600px;
+}
+
+.business-info{
+  height: 90px;
+  width: 273px;
+  position: absolute;
+  left: 660px;
+  top: 0px;
+}
+
+.hours{
+  text-align: center;
+  display: block;
+  font-size: 17px;
+  margin: 5px 0 0 0;
+  color: grey 
+}
+
+.phone-number{
+  display: block;
+  font-size: 35px;
+  text-align: center;
+  color: rgb(64, 187, 187)
+}
+
+.international{
+  text-align: center;
+  display: block;
+  color: grey;
+}
+
+.main-bar{
+  height: 1px;
+  color: grey;
+}
+
+.clients-servers{
+  color: rgb(80, 113, 155);
+  font-size: 27px
+}
+
+.computers{
+  font-size: 20px
+}
+
+.web{
+  color: rgb(71, 177, 196);
+}
+.clients{
+  font-weight: bold;
+}
+
+.main-list li{
+  font-size: 21px
+}
+
+.client-server{
+  height: 140px;
+  margin: 0 0 0 300px;
+}
+
+footer{
+  height: 150px;
+  width: 900px;
+  margin: 0 330px;
+  border: 5px solid rgb(45, 95, 151);
+  border-bottom: 0;
+}
+
+.html{
+  height: 150px
+}
+
+footer{
+  position: relative;
+}
+.footer-header{
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px 0 0 0;
+  color: rgb(80, 113, 155);
+}
+
+.footer-p{
+  display: inline-block;
+  width: 700px;
+  height: 100px;
+  position: absolute;
+  top: 50px;
+  left: 170px;
+  font-size: 20px;
+}
+
+.italics{
+  font-style: italic;
+  
+}
+
+.final-p{
+  display: inline-block;
+  position: absolute;
+  top: 120px;
+  left: 170px;
+  font-size: 20px
+}
